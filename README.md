@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-Hi im Kush and i an a Formula1 fanboy
+Hi im Kush and i am a Formula1 fanboy
